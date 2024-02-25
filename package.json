@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+hhttps://github.com/nhochiennhoc/mul-nhochiennhoc"
+    "url": "git+https://github.com/nhochiennhoc/mul-nhochiennhoc"
   },
   "keywords": ["mul", "multiphy", "multiple", "nhan"],
   "author": "Hien Quang",
