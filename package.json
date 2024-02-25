@@ -1,0 +1,16 @@
+{
+  "name": "mul-nhochiennhoc",
+  "version": "1.0.0",
+  "description": "Calculate multiphy of two digits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+hhttps://github.com/nhochiennhoc/mul-nhochiennhoc"
+  },
+  "keywords": ["mul", "multiphy", "multiple", "nhan"],
+  "author": "Hien Quang",
+  "license": "ISC"
+}
